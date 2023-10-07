@@ -1,3 +1,6 @@
 debug/
 target/
 *.log
+.envrc
+.direnv/
+result
